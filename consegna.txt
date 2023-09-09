@@ -1,0 +1,6 @@
+siete all'interno di un casolare e non potete uscire di giorno nè di sera.
+Sapete che c'è un casolare vicino con delle luci.
+dovete comunicare con l'altro casolare con il morse tramite impulsi visivi che potete produrre tramite il vostro monitor.
+tramite un input da tastiera si illumina lo schermo, a seconda se rilasci o meno il tasto.
+Siccome non potete essere al computer sempre, mettere una frase di default in morse presente da backend in italiano.
+Immaginate che l'altro casolare risponda e non siete presenti. Come potete fare per capire cosa vi hanno detto?
