@@ -4,7 +4,6 @@ import axios from 'axios';
 function App() {
   const [screenColor, setScreenColor] = useState('black')
   const [message, setMessage] = useState('')
-  // const [running, setRunning] = useState(false)
   const morse = {
     'a': '.-',
     'b': '-...',
